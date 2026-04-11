@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mv \"images/Gemini_Generated_Image_10617p10617p1061.png\" \"images/mural.png\")",
+      "Bash(rm \"Gemini_Generated_Image_10617p10617p1061.png\")"
+    ]
+  }
+}
